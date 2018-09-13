@@ -1,0 +1,31 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1815-1831-parte-2-Conferenze-fiorentine-Storia_51324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51324'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Civilization -- 19th century'
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcsh 'Italian literature -- 19th century'
+- !lcc 'DG'
+- GITenberg
+tableOfContents: Le "Pensieroso" / G. Costa di Beauregard -- Silvio Pellico / Augusto
+  Alfani -- Le società segrete in Romagna e la rivoluzione del 1831 / Ernesto Masi
+  -- Santorre Santarosa, morto per la libertà della Grecia nel 1825 / Isidoro del
+  Lungo.
+title: "La vita Italiana nel Risorgimento (1815-1831), parte 2\r\nConferenze fiorentine\
+  \ - Storia"
+url: http://www.gutenberg.org/ebooks/51324
